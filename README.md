@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Monaco_Editor-0.52+-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Monaco Editor"/>
 </p>
 <br>
+<p>这是OICPP的一个fork.</p>
 <p>OICPP IDE 起源于一个退役高中 OIer 对信息学竞赛的热爱与对编程工具的思考。</p>
 
 <p>我们采访了 Genius_Star、__Cby___、水星湖 等现役 OIer，了解了更多需求， 专门打造了这款针对性极强的集成开发环境。
